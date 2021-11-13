@@ -1,0 +1,66 @@
+.navbar-nav
+{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: blue; */
+    width: 70%;
+}
+
+
+.icons
+{ 
+    /* background-color: blue; */
+    margin-left: auto;
+    /* width: 25%; */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+/* header start  */
+.home-1
+{
+    background-image: url(../images/intro-bg.jpg);
+    background-size: 100%;
+    background-position: center;
+
+}
+.home-2
+{
+    background-image: url(../images/post-1.jpg);
+    background-size: 100%;
+    background-position: center;
+
+}
+
+.home-3
+{
+    background-image: url(../images/post-2.jpg);
+    background-size: 100%;
+    background-position: center;
+
+}
+
+.home-4
+{
+    background-image: url(../images/post-3.jpg);
+    background-size: 100%;
+    background-position: center;
+
+}
+.caption
+{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-indicators li
+{    width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-left: 10px;
+
+}
+/* header end */
